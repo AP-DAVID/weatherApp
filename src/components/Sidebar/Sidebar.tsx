@@ -40,7 +40,7 @@ const Sidebar = ({ citiesData }: Props) => {
       {/* This buttton is only visibile in the mobile view, it open and closes the sidebar */}
 
       <button
-        className="cursor-pointer text-xl leading-none  border border-solid border-transparent rounded bg-transparent block lg:hidden outline-none focus:outline-none"
+        className="cursor-pointer text-xl leading-none mr-3 px-1 py-1  border border-solid border-transparent rounded bg-transparent block lg:hidden outline-none focus:outline-none"
         type="button"
         onClick={() => setSidebarOpen(!sidebarOpen)}
       >
