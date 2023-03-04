@@ -36,7 +36,7 @@ const Sidebar = ({ citiesData }: Props) => {
   };
 
   return (
-    <div className="bg-[#67cbff] overflow-y-auto sm:scrollbar scrollbar-thumb-gray-900 scrollbar-track-gray-100 scrollbar-thumb-rounded-full scrollbar-track-rounded-full">
+    <div className="bg-[#67cbff] overflow-y-auto overflow-x-hidden sm:scrollbar scrollbar-thumb-gray-900 scrollbar-track-gray-100 scrollbar-thumb-rounded-full scrollbar-track-rounded-full">
       {/* This buttton is only visibile in the mobile view, it open and closes the sidebar */}
 
       <button
