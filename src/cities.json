@@ -1,0 +1,122 @@
+[
+  {
+    "id" : 1,
+    "name": "New York",
+    "lat": 40.7128,
+    "lng": -74.006
+  },
+  {
+    "id": 2,
+    "name": "London",
+    "lat": 51.5074,
+    "lng": -0.1278
+  },
+  {
+    "id": 3,
+    "name": "Lagos",
+    "lat": 6.4541,
+    "lng": 3.3947
+  },
+  {
+    "id": 4,
+    "name": "Paris",
+    "lat": 48.8566,
+    "lng": 2.3522
+  },
+  {
+    "id": 5,
+    "name": "Sydney",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "id": 6,
+    "name": "Abuja",
+    "lat": 9.0765,
+    "lng": 7.3986
+  },
+  {
+    "id": 7,
+    "name": "Dubai",
+    "lat": 25.2048,
+    "lng": 55.2708
+  },
+  {
+    "id": 8,
+    "name": "Hong Kong",
+    "lat": 22.3193,
+    "lng": 114.1694
+  },
+  {
+    "id": 9,
+    "name": "San Francisco",
+    "lat": 37.7749,
+    "lng": -122.4194
+  },
+  {
+    "id": 10,
+    "name": "Berlin",
+    "lat": 52.52,
+    "lng": 13.405
+  },
+  {
+    "id": 11,
+    "name": "Singapore",
+    "lat": 1.3521,
+    "lng": 103.8198
+  },
+  {
+    "id": 12,
+    "name": "Moscow",
+    "lat": 55.7558,
+    "lng": 37.6173
+  },
+  {
+    "id": 13,
+    "name": "Cape Town",
+    "lat": -33.9249,
+    "lng": 18.4241
+  },
+  {
+    "id": 14,
+    "name": "Toronto",
+    "lat": 43.6532,
+    "lng": -79.3832
+  },
+  {
+    "id": 15,
+    "name": "Rio de Janeiro",
+    "lat": -22.9068,
+    "lng": -43.1729
+  },
+  {
+    "id": 16,
+    "name": "Barcelona",
+    "lat": 41.3851,
+    "lng": 2.1734
+  },
+  {
+    "id": 17,
+    "name": "Dublin",
+    "lat": 53.3498,
+    "lng": -6.2603
+  },
+  {
+    "id": 18,
+    "name": "Seoul",
+    "lat": 37.5665,
+    "lng": 126.978
+  },
+  {
+    "id": 19,
+    "name": "Amsterdam",
+    "lat": 52.3667,
+    "lng": 4.8945
+  },
+  {
+    "id": 20,
+    "name": "Shanghai",
+    "lat": 31.2304,
+    "lng": 121.4737
+  }
+]
