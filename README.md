@@ -22,7 +22,7 @@ Check out the live demo [here](https://weatherappyoke.vercel.app).
 ### Installation
 
 1. Clone the repository
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/AP-DAVID/weatherApp.git
 
 markdown
 Copy code
